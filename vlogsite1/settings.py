@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-qr=%ajn+fjzy_=3t2hwrve4bbrnyp880l6xnmzvxy%6hm7xfwu
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    'vlog-site-7.onrender.com',
+    'vlog-site-8.onrender.com',
 ]
 
 
