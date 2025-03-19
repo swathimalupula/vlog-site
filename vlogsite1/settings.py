@@ -25,7 +25,9 @@ SECRET_KEY = 'django-insecure-qr=%ajn+fjzy_=3t2hwrve4bbrnyp880l6xnmzvxy%6hm7xfwu
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'vlog-site-7.onrender.com',
+]
 
 
 # Application definition
