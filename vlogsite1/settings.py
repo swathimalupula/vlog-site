@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-qr=%ajn+fjzy_=3t2hwrve4bbrnyp880l6xnmzvxy%6hm7xfwu'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = [
     'vlog-site-7.onrender.com',
